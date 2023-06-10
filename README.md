@@ -1,6 +1,5 @@
 # Kullanılan kütüphaneler
 
-fb4b0ead3521db87589062697debdb71
 -axios
 -@splidejs/react-splide
 -react-router-dom
@@ -29,4 +28,7 @@ fb4b0ead3521db87589062697debdb71
 -Film detay sayfası oluştur.
 -urldeki parametryi al o parametreyi kullanrak ilgili filmlerin detay verisini çek
 -Apiden gelen cevaba göre ekrana bilgileri listele
+
 # redux-thunk-netflix
+
+![](ekran.gif)
