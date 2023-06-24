@@ -1,5 +1,5 @@
 
-https://redux-thunk-netflix.vercel.app/
+proje adresi: https://redux-thunk-netflix.vercel.app/
 
 # Kullanılan kütüphaneler
 
