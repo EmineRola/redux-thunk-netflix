@@ -1,3 +1,6 @@
+
+https://redux-thunk-netflix.vercel.app/
+
 # Kullanılan kütüphaneler
 
 -axios
